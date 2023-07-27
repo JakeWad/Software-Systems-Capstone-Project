@@ -45,3 +45,4 @@ public class User {
         user.changePassword("wrongpass", "newpass123"); // Incorrect current password. Password change failed.
     }
 }
+
